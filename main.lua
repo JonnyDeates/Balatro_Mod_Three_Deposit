@@ -2,7 +2,7 @@
 --- MOD_NAME: Three Deposit
 --- MOD_ID: THREEDEPOSIT
 --- MOD_AUTHOR: [jonnydeates]
---- MOD_DESCRIPTION: Jokers with casino mechanics.
+--- MOD_DESCRIPTION: Joker and Deck for the best card, the 3 card.
 --- PREFIX: txjd
 ----------------------------------------------
 ------------MOD CODE -------------------------
